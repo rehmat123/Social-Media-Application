@@ -1,0 +1,1 @@
+export const SELECT_ACTIVITY = "SELECT_ACTIVITY";
